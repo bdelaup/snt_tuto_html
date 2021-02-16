@@ -1,0 +1,29 @@
+section {
+    background: lightgreen;
+    border-color: darkgreen;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+footer {
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+    border-radius: 0px;
+}
+
+nav {
+    background-color: lightseagreen;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+main {
+    background-color: white;
+    border-color: white;
+    border-width: 3px;
+    border-style: solid;
+}

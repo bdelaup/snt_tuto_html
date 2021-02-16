@@ -1,0 +1,8 @@
+section {
+    background: lightgreen;
+    border-color: darkgreen;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    margin: 5px;
+}
